@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[underdogdesign]]></title>
         <description><![CDATA[underdogdesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/underdogdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 17:36:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 17:36:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/underdogdesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/underdogdesign/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">113120e6-bcc5-460b-83ac-fe871a5dad33</guid>
+            <pubDate>Thu, 10 Dec 2015 17:36:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to underdogdesign</p>]]></description>
-            <link>undefinedb858b65e-6091-4896-b507-ab1a5fd20775/index.html</link>
+            <link>https://thegrid.ai/underdogdesign/b858b65e-6091-4896-b507-ab1a5fd20775/index.html</link>
             <guid isPermaLink="false">b858b65e-6091-4896-b507-ab1a5fd20775</guid>
             <pubDate>Thu, 10 Dec 2015 17:36:16 GMT</pubDate>
         </item>

@@ -1,7 +1,7 @@
 name: underdogdesign
 favicon: null
-layout_spectrum: 0.26893
-typography_spectrum: 0.5401
+layout_spectrum: 1
+typography_spectrum: 0.82867
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6952062966302037
+    - '#00739c'
+    - '#5ba5c0'
+    - '#c9e1eb'
+    - '#fe7d05'
+    - '#884c41'
+  brandStrength: 0.25
   lightness: 0.6875
   saturation: 0.5625
   rhythmicContrast: 0.5

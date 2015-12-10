@@ -1,18 +1,17 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
-author: []
-datePublished: '2015-12-10T17:47:36.494Z'
-dateModified: '2015-12-10T17:47:19.134Z'
-sourcePath: _posts/2015-12-10-getting-started-on-the-grid.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
+description: Click the pencil icon in the bottom left to read more...
+datePublished: '2015-12-10T17:50:43.464Z'
+dateModified: '2015-12-10T17:50:32.131Z'
+title: Getting Started on The Grid
+author: []
+sourcePath: _posts/2015-12-10-getting-started-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
@@ -144,3 +143,4 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Send us a message via the "Help" link.
 * Email us at feedback@thegrid.io
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acc44ffe-c6fb-4ff0-8771-6a8c88922f21.jpg)
